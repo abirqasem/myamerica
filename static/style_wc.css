@@ -1,0 +1,91 @@
+
+/* from Google CSS */
+.branding-below {
+  bottom: 56px;
+  top: 0;
+}
+
+.color_row{
+ height: 5%;
+ width: 90%;
+
+
+}
+
+.color_row_big{
+ height: 3%;
+ width: 45%;
+
+
+}
+#canvas{
+/* 	width:600px;
+    height:820px;*/
+}
+
+#tagCloudBig{
+
+
+}
+
+#spin{
+  width: 25%;
+  
+ }
+ 
+ 
+.sidebar {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  overflow-y: auto;
+  padding-top: 12px;
+  position: absolute;
+  width: 100%;
+}
+
+.bottom,
+.bottom-left,
+.button-bar {
+  bottom: 0;
+  position: absolute;
+}
+
+.bottom-right,
+.button-bar-right {
+  bottom: 0;
+  position: absolute;
+  right: 0;
+}
+.line{
+ width:75%;
+ margin-top: 5%;
+ float:center; 
+ border: 1px solid gainsboro;
+ border-color: #e4e4e4;
+
+}
+
+.invisible{
+ display: none;
+
+}
+
+#tagCloud {
+ 
+
+
+}
+
+
+ 
+
+#bottom{
+  background-color: #e4e4e4;
+  height:  6%;
+ text-align: center;
+  
+}
+
+
+
+

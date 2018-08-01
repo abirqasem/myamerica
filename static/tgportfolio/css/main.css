@@ -1,0 +1,64 @@
+body {
+ font-family: 'Lato', sans-serif;  
+ color: #747704;
+ font-weight: 300;
+ padding-top: 5rem;
+}
+.main_container{
+    margin-top: 5%;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+h2.text-muted{
+    color:  #e8e8e8;   
+    
+}
+.text-thin{
+ font-weight: 100;   
+}
+h1,h5{
+ font-family: 'Lato', sans-serif;
+}
+.title-super{
+     font-size:60px;   
+}
+.title-logo{
+    margin-top: 20px;
+    
+}
+hr {   
+    border: none;
+    height: 2px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #e8e8e8; /* Modern Browsers */
+}
+#logo{
+ width: 200px;
+ height:25px;
+ margin-right: 5px;
+
+  
+}
+
+.img_block{
+  width: 200px;
+  height: 150px;
+}
+
+
+@media screen and (max-width: 500px) {
+    #head, h2, h5, h6, p {
+        font-size: 70%;
+    }
+    .subtitle{
+     visibility: hidden;   
+    }
+
+    .hidden-md-up{
+    visibility: visible;       
+    }
+
+}
